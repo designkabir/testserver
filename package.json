@@ -1,0 +1,24 @@
+{
+  "name": "com.parchibol.parchibol",
+  "version": "1.0.0",
+  "description": "B2B List Making App, B2B Parchi making app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Parchibol",
+    "Parchi",
+    "List",
+    "Making",
+    "List",
+    "Share"
+  ],
+  "author": "Rishi Raj Singh",
+  "license": "ISC",
+  "dependencies": {
+    "com.parchibol.parchibol": "file:",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
